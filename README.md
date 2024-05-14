@@ -6,9 +6,9 @@
   - username=你的帳號
   - password=你的密碼
 2. 程式運行
-ˋˋˋ =shell
-V1_request.py
-ˋˋˋ
+```shell
+python V1_request.py
+```
 # 參考資料
 - [司法院開放資料平台](https://opendata.judicial.gov.tw/)
   - [API 規格書公告](https://opendata.judicial.gov.tw/news/detail?newsId=3035)
