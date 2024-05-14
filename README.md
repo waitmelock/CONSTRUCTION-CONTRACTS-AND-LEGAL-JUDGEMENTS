@@ -3,9 +3,9 @@
 ## API串接（V1_request.py)
 - 下載
 1.開啟terminal
-ˋˋˋshell
+```shell
 git clone git@github.com:waitmelock/CONSTRUCTION-CONTRACTS-AND-LEGAL-JUDGEMENTS.git
-ˋˋˋ
+```
 2. 點選右上角綠色按鈕，點選列表最下方的download zip進行下載
 - 使用方式
 1. 申請司法院開放平台的帳密，替換以下資訊
