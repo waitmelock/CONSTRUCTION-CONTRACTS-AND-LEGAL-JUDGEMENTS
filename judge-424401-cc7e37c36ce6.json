@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "judge-424401",
+  "private_key_id": "cc7e37c36ce6227322b256b0a148290251513782",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCpqKcW4uCm5hT\na+KZ/K1DoIztSZluVK/WmrV+7emsdgMmJKO+xe2VcjX2w8dMFequSXFKPk+eaT1W\nGX6dkvegFqpqgPhq0ARPSIx7I23tvFjbd3/hT9RygYkZSeoT/1Y0b0WU/Bngl1qH\nyO21gqw7cbLPhsx1DAwHoaT4Cy00lPxhnqiWlIekXjUerj36zJknBf8+EQX0ZnrP\nQOFDcDkvrfF3TrmfV3W9PTl3AV2chakFzpv+Whzgclbp1q6cRMLzCGKhnRoa9R9k\nQ/H2yL5lqS32ntHDClXke+MJ878wsOq/ibSJJdlOydTIWlGFe067RpOU2VL+Q0GG\nZtdnr6TtAgMBAAECggEALPzsemziGqaxlx5JOkPfG9FAoRswngJuvY/2QMbmChkg\nczFmsxH17mN+O3FWX6x1GCEbUQiDyF4UchDkZbDxEIwMiR8Ty0QWquhep5sxrg+p\nDdhZsw6LUIfF0xV1R3ftSaMqFtwJcxIoN1fmMNxpyDdoF3TVTnwhT6Y5haa3pP4e\n3rjZppZVdF5CyJDo5i/YuqYZYm1BMtPqCcuw+jxZWTCTUyrD0HAwWm3yr68wbI/l\ntII1H0x91EK0sMRkXH/Jw7IXBHUHBSsImGxH+n0lZPsCf2T51CXwcmmZwVJhyPa7\ni4LsmoMHapPc81x7tjxEK2+UrOJ7PJWb4m7ZBRfNgQKBgQDrOJBR9K4Qxf23Ut8Q\nqR1UtsUgu1Ufh4Ulw7TjW5mLdTEKxPpyt37UegqoRzGBbNk6dEauyDJHJSmgGSZg\nmuVtXGnPGTQAALTJ+JfPMeh5D8E05+wOS7YCRsS9fC+Q7p9VJge6FFtLxxviDrlB\nviPXqJJcYBj8wsTmJYU9wlPbYQKBgQDT2JhLlrHzvRHdfiMmgZ7KTaBGZHhnWFOe\niSScrNk0M27ZAtgfTZckViN0pao8j2VGJrfHmSJ1TGd5js6bKRIGR8/3SllkkLFf\nLoJ3zVMQjS6/ECkidvp4fPowtbN/YJD5zUAyk8KX+0LNtULnnBNL4Qk52gYegjF3\nWVS9QeYhDQKBgEflwjdK0unNmv+uFQDCsHR0aUzX9eztP4WLjH7yQLyf1Z21F9h4\nvgu0Qg2ttTQaUUvMvs4t4zBb651EErb0oawL00u6KGrXzGrv0XdDigt3BVdmjIDS\nI5AOkZRZoTBrv8gHF9WI418GPT+bwISX2dzRaetSdFDON+EhFtkJzRgBAoGAf7H/\nmxCrE5DUQ/7UkVFwteE0yzmkmibTwKxKNWa7Rov6NTVRsQzEHlMN7DIv+3E0SqTs\nApR8ANidRtieEUkgZEjFQvq+B7BwOj9+xVguybtQgjrrkKrHL/mlldbw68b5nJns\nKJCIq7P5AKZSPeoGd6aeORECv0EbMCXYvnwKi8ECgYEAsvxyvN/vplbDMeZOe3Fm\nEi1DxLj6qqXhoRIC/4Swm05wdeFkLH5UFqygljwVrtr9iuouRkYKBghuGje+KuH0\nkeaHaN0ZQv39kRPSX30c9ySLpXtcOwLGnRWdFmT2z3IYlmC4Xx1805Io2OTVgm0O\nkgBmDpCWdJAwTGPU7x9/fEc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "judge-728@judge-424401.iam.gserviceaccount.com",
+  "client_id": "105865111067144297739",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/judge-728%40judge-424401.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
